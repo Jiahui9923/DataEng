@@ -1,6 +1,6 @@
 ## File Declaration
 
-All code implementaations are executed in **jiahui.ipynb** file.
+All code implementaations are executed in **DataGathering.ipynb** file.
 
 All notes are recoreded in the **Note.pdf** file.
 
